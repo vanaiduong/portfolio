@@ -4,7 +4,7 @@ title: Bio
 subtitle: Bio subtitle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Van Duong. I am a Senior at the University of Minnesota, Twin Cities pursuing a Mathematics B.S. and Computer Science minor. My expected graduation date is set to be May 2019.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
