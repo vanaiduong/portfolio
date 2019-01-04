@@ -28,7 +28,7 @@ navbar-links:
     - NASA Langley Research Center: "http://deanattali.com/beautiful-jekyll/"
     - NASA Glenn Research Center: "http://www.markdowntutorial.com/"
     - Minnesota Traffic Observatory: "https://pages.github.com/"
-  Resume: "http://deanattali.com"
+  Resume: "vanduong_resume"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
