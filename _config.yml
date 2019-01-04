@@ -23,13 +23,12 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Education:
-  Experience:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-   Resume: 
+  Education: "education"
+  Experience: "http://deanattali.com/beautiful-jekyll/"
+    - NASA Langley Research Center: "http://deanattali.com/beautiful-jekyll/"
+    - NASA Glenn Research Center: "http://www.markdowntutorial.com/"
+    - Minnesota Traffic Observatory: "https://pages.github.com/"
+   Resume: "http://deanattali.com/beautiful-jekyll/"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
