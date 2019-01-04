@@ -23,7 +23,7 @@ description: Portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  Education: "aboutme"
+  Education: "education"
   Experience: "http://deanattali.com/beautiful-jekyll/"
     - NASA Langley Research Center: "http://deanattali.com/beautiful-jekyll/"
     - NASA Glenn Research Center: "http://www.markdowntutorial.com/"
