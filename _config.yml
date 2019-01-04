@@ -25,9 +25,9 @@ description: Portfolio
 navbar-links:
   Education: "education"
   Experiences:
-    - NASA Langley Research Center: "http://deanattali.com/beautiful-jekyll/"
-    - NASA Glenn Research Center: "http://www.markdowntutorial.com/"
-    - Minnesota Traffic Observatory: "https://pages.github.com/"
+    - NASA Langley Research Center: "langley_summer2018"
+    - NASA Glenn Research Center: "glenn_fall2018"
+    - Minnesota Traffic Observatory: "mto"
   Resume: "vanduong_resume.pdf"
   
 
