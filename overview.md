@@ -2,9 +2,9 @@
 
 1. **Cognitive Optimization and Relational (CORE) Robotics Laboratory**: Masters thesis in collaboration with NASA Jet Propulsion Laboratory for planetary exploration robots
 
-2. **NASA Jet Propulsion Laboratory** - RSVP: Voice control system for Mars Rover Drivers in JPL's Rover Sequencing and Visualization Program (RSVP) team
+2. **NASA Jet Propulsion Laboratory - RSVP**: Voice control system for Mars Rover Drivers in JPL's Rover Sequencing and Visualization Program (RSVP) team
 
-3. **NASA Jet Propulsion Laboratory** - i2F: Rapid prototyping for CubeSat research in JPL's Innovation to Flight (i2F) group
+3. **NASA Jet Propulsion Laboratory - i2F**: Rapid prototyping for CubeSat research in JPL's Innovation to Flight (i2F) group
 
 4. **NASA Glenn Research Center**: Urban air mobility air traffic communications visualization
 
