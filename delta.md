@@ -1,9 +1,15 @@
 **Delta Air Lines** - IT Business Analyst Intern
 
-Dates: 05/2017 - 01/2018
+**Dates:** 05/2017-12/2017
 
-- Consulted with technical lead engineers and business partners to determine best solution to various IT problems
+**Role:** IT Business Analyst Intern
 
-- Led own project for Delta Air Lines to better interact with partner airlines, saving the company $2 million each year
+**Manager:** Clem Czerniak (Clement.J.Czerniak@delta.com)
 
-- Developed documents to auto-calculate all capital expense data for Delta IT Alliances
+**Group:** Delta Air Lines Channels Technology, Alliance Partnerships, and Global Distribution System Support
+
+**Tasks:**
+- Consulted with technical lead engineers and business partners to determine and bring together the best fit solution to various IT problems
+- Led own project for Delta Air Lines to better interact with parter airlines, saving the company $2 million each year
+- Developed documents using macro algorithms to auto-calculate all capital expense data for Delta IT Alliances
+
