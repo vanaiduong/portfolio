@@ -13,6 +13,6 @@
 
 
 <p align="center">
-  <img src="img/delta_01.jpg" width="50%"/>.
+  <img src="img/delta_01.jpg"/>.
 </p>
 
