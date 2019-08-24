@@ -12,7 +12,6 @@
 - Developed documents using macro algorithms to auto-calculate all capital expense data for Delta IT Alliances
 
 
-<p align="center">
-  ![image](img/delta_01.png = 250x)
-</p>
+
+  ![image]("img/delta_01.png" = 250x)
 
