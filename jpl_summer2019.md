@@ -21,4 +21,4 @@ In collaboration with NASA Jet Propulsion Laboratory’s Rover Sequencing and Vi
 In collaboration with NASA Jet Propulsion Laboratory’s Innovation to Flight group, this speech-to-text system was implemented to be easily implemented into different kinds of robots including but not limited to Urban Air Vehicles (UAV) and Unmanned Ground Vehicles (UGV). A text-to-speech program was developed for verification and validation of commands.
 
 
-![Test Image 1](img/jpl_01.jpg)
+![Test Image 1](img/jpl_01.JPG)
