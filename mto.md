@@ -1,4 +1,4 @@
-**Minnesota Traffic Observatory**
+**Minnesota Traffic Observatory** - Undergraduate Research Assistant
 
 - Built MATLAB programs to analyze transportation PostgreSQL data from sensors on Interstate-35 and created an algorithm to predict an upcoming crash by analyzing real-time speeds of vehicles
 
