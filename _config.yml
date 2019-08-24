@@ -24,6 +24,7 @@ description: Portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "education"
+  Coursework: "courses"
   Experiences:
     - Overview: "overview"
     - 1. Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
@@ -34,7 +35,7 @@ navbar-links:
     - 6. Delta Air Lines: "delta"
     - 7. Minnesota Traffic Observatory: "mto"
   Publications: "publication"
-  
+  Volunteer Experiences: "volunteer"
   Resume: "vanduong_resume.pdf"
   
 
