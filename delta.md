@@ -1,4 +1,6 @@
-![Delta Air Lines](img/delta_01.jpg){:height="50%" width="50%"}
+![test image size](img/delta_01.jpg){:class="img-responsive"}
+![test image size](img/delta_01.jpg){:height="50%" width="50%"}
+![test image size](img/delta_01.jpg){:height="700px" width="400px"}
 
 **Delta Air Lines** - IT Business Analyst Intern
 
