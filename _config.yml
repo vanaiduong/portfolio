@@ -26,12 +26,12 @@ navbar-links:
   About Me: "education"
   Experiences:
     - Overview: "overview"
-    - Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
-    - NASA Jet Propulsion Laboratory: "jpl_summer2019"
-    - NASA Langley Research Center: "langley_summer2018"
-    - NASA Glenn Research Center: "glenn_fall2018"
-    - Delta Air Lines: "delta"
-    - Minnesota Traffic Observatory: "mto"
+    - 1. Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
+    - 2. NASA Jet Propulsion Laboratory: "jpl_summer2019"
+    - 3. NASA Langley Research Center: "langley_summer2018"
+    - 4. NASA Glenn Research Center: "glenn_fall2018"
+    - 5. Delta Air Lines: "delta"
+    - 6. Minnesota Traffic Observatory: "mto"
   Publications: "publication"
   
   Resume: "vanduong_resume.pdf"
