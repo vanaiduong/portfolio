@@ -1,4 +1,4 @@
-**NASA Langley Research Center** - NASA Academy Research Associate (NASA Leadership Program)
+**NASA Langley Research Center** - Academy Research Associate (NASA Leadership Program)
 
 Dates: 05/2018 - 08/2018
 
