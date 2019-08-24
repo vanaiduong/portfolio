@@ -13,6 +13,6 @@
 
 
 <p align="center">
-  <img src="img/delta_01.jpg"/>.
+  ![image](img/delta_01.png = 250x)
 </p>
 
