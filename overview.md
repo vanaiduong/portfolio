@@ -1,6 +1,6 @@
 Overview:
 
-1. Cognitive Optimization and Relational (CORE) Robotics Laboratory: Masters thesis in collaboration with NASA Jet Propulsion Laboratory for planetary exploration robots
+1. **Cognitive Optimization and Relational (CORE) Robotics Laboratory:** Masters thesis in collaboration with NASA Jet Propulsion Laboratory for planetary exploration robots
 
 2. NASA Jet Propulsion Laboratory: Voice control system for Mars Rover Drivers and CubeSat research
 
