@@ -11,5 +11,9 @@
 - Led own project for Delta Air Lines to better interact with parter airlines, saving the company $2 million each year
 - Developed documents using macro algorithms to auto-calculate all capital expense data for Delta IT Alliances
 
-![image](img/delta_01.png = 250x)
 
+![Test Image 1](img/delta_01.jpg)
+
+![Test Image 2](img/delta_02.jpg)
+
+![Test Image 3](img/delta_03.jpg)
