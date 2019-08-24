@@ -18,6 +18,6 @@ Abstract: The 2018 NASA Academy at Langley Research Center created proof-of-conc
 
 ![Langley Image 2](img/langley_02.JPG)
 
-![Langley Image 3](img/langley_03.PNG)
+![Langley Image 3](img/langley_03.png)
 
-![Langley Image 4](img/langley_04.PNG)
+![Langley Image 4](img/langley_04.png)
