@@ -1,6 +1,4 @@
-**Delta Air Lines** 
-
-IT Business Analyst Intern
+**Delta Air Lines** - IT Business Analyst Intern
 
 Dates: 05/2017 - 01/2018
 
