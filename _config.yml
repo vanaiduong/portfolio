@@ -29,6 +29,8 @@ navbar-links:
     - NASA Langley Research Center: "langley_summer2018"
     - NASA Glenn Research Center: "glenn_fall2018"
     - Minnesota Traffic Observatory: "mto"
+    - NASA Jet Propulsion Laboratory: "jpl_summer2019"
+    - Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
   Resume: "vanduong_resume.pdf"
   
 
