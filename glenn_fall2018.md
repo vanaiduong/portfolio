@@ -17,10 +17,10 @@
 
 **Hardware:** Computer Automatic Virtual Environment (CAVE) System, Oculus Rift Software: Unity, Esri CityEngine, Blender
 
-![Test Image 1](img/glenn_01.jpg)
+![Test Image 1](img/glenn_01.JPG)
 
-![Test Image 2](img/glenn_01.jpg)
+![Test Image 2](img/glenn_01.JPG)
 
-![Test Image 3](img/glenn_01.jpg)
+![Test Image 3](img/glenn_01.png)
 
-![Test Image 4](img/glenn_01.jpg)
+![Test Image 4](img/glenn_01.png)
