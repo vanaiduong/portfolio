@@ -24,7 +24,6 @@ description: Portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "education"
-  Coursework: "courses"
   Experiences:
     - Overview: "overview"
     - 1. Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
