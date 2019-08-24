@@ -10,10 +10,7 @@
 
 **Language:** C 
 
-**Hardware/Software Used:**
-
-- Carnegie Mellon University’s PocketSphinx Speech Recognition Program
-- Microsoft HoloLens
+**Software Used:** Carnegie Mellon University’s PocketSphinx Speech Recognition Program
 
 **NASA JPL’s Rover Sequencing and Visualization Program (RSVP):**
 
