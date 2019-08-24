@@ -27,11 +27,12 @@ navbar-links:
   Experiences:
     - Overview: "overview"
     - 1. Cognitive Optimization and Relational Robotics Laboratory: "core_gatech"
-    - 2. NASA Jet Propulsion Laboratory: "jpl_summer2019"
-    - 3. NASA Langley Research Center: "langley_summer2018"
-    - 4. NASA Glenn Research Center: "glenn_fall2018"
-    - 5. Delta Air Lines: "delta"
-    - 6. Minnesota Traffic Observatory: "mto"
+    - 2. NASA Jet Propulsion Laboratory - Mars Rover Driving Voice Control System: "jpl_summer2019"
+    - 3. NASA Jet Propulsion Laboratory - Innovation to Flight: "jpl_i2f"
+    - 4. NASA Langley Research Center - Urban Air Mobility Pilot-Training Mixed-Reality Booth: "langley_summer2018"
+    - 5. NASA Glenn Research Center - Urban Air Mobility Air Traffic Communications Visualization: "glenn_fall2018"
+    - 6. Delta Air Lines - Business Analyst Work for International Airline Partnerships : "delta"
+    - 7. Minnesota Traffic Observatory - Real-time Vehicle Sensor Data Processing: "mto"
   Publications: "publication"
   
   Resume: "vanduong_resume.pdf"
