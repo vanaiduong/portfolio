@@ -14,10 +14,10 @@ Abstract: The 2018 NASA Academy at Langley Research Center created proof-of-conc
 
 **Hardware/Software:** HTC Vive, LEAP Motion, Esri CityEngine, Unity, Blender
 
-![Test Image 1](img/delta_01.JPG)
+![Langley Image 1](img/langley_01.JPG)
 
-![Test Image 1](img/delta_02.JPG)
+![Langley Image 2](img/langley_02.JPG)
 
-![Test Image 1](img/delta_03.PNG)
+![Langley Image 3](img/langley_03.PNG)
 
-![Test Image 1](img/delta_04.PNG)
+![Langley Image 4](img/langley_04.PNG)
