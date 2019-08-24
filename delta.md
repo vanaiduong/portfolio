@@ -1,3 +1,5 @@
+![Test Image 1](img/delta_01.jpg)
+
 **Delta Air Lines** - IT Business Analyst Intern
 
 **Dates:** 05/2017-12/2017
