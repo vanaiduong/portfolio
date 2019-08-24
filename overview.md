@@ -1,4 +1,4 @@
-Overview:
+**Overview**:
 
 1. **Cognitive Optimization and Relational (CORE) Robotics Laboratory**: Masters thesis in collaboration with NASA Jet Propulsion Laboratory for planetary exploration robots
 
