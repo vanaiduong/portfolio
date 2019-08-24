@@ -19,8 +19,8 @@
 
 ![Test Image 1](img/glenn_01.JPG)
 
-![Test Image 2](img/glenn_01.JPG)
+![Test Image 2](img/glenn_02.JPG)
 
-![Test Image 3](img/glenn_01.png)
+![Test Image 3](img/glenn_03.png)
 
-![Test Image 4](img/glenn_01.png)
+![Test Image 4](img/glenn_04.png)
