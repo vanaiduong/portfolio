@@ -18,3 +18,7 @@ How often shockwaves occurred was correlated to mobility, since shockwaves disru
 **Tasks:**
 - Built MATLAB programs to analyze transportation PostgreSQL data from sensors on Interstate-35 and created an algorithm topredict an upcoming crash by analyzing real-time speeds of vehicles
 - Developed Python code for the Minnesota Department of Transportation to process real-time vehicle speeds and warn cars to slow down via electric road signs to prevent a predicted crash on Minnesota’s highest crash point at Interstate-35
+
+![Test Image 1](img/mto_1.jpg)
+
+![Test Image 2](img/mto_2.jpg)
