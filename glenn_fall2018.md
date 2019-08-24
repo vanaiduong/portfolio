@@ -1,4 +1,4 @@
-**NASA Glenn Research Center** 
+**NASA Glenn Research Center** - 3D Immersive Cave Automatic Virtual Environment Intern
 
 Dates: 08/2018 - 12/2018
 
