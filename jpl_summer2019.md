@@ -17,9 +17,8 @@
 
 **NASA JPL’s Rover Sequencing and Visualization Program (RSVP):**
 
-In collaboration with NASA Jet Propulsion Laboratory’s Rover Sequencing and Visualization Program (RSVP) group, this speech-to-text system was implemented to expand high-level the rover mobility activity (macro) to the Rover Sequencing Editor (RoSE) and simulated with 3D graphics in HyperDrive. As an extension of this project, these commands were also
-sent to the HoloLens OnSight environment to be simulated in an augmented reality environment as well
+In collaboration with NASA Jet Propulsion Laboratory’s Rover Sequencing and Visualization Program (RSVP) group, this speech-to-text system was implemented to expand high-level the rover mobility activity (macro) to the Rover Sequencing Editor (RoSE) and simulated with 3D graphics in HyperDrive. By connecting to JPL's RSVP system, these commands can further be sent to virtual reality simulations, testbed rovers, and rovers in space as well.
 
 **Unmanned Air Vehicles (UAV) and Unmanned Ground Vehicles (UGV):**
 
-In collaboration with NASA Jet Propulsion Laboratory’s Innovation to Flight group, this speech-to-text system was implemented for Urban Air Vehicle (UAV) and Unmanned Ground Vehicle (UGV) control alongside a text-to-speech program for verification and validation of commands.
+In collaboration with NASA Jet Propulsion Laboratory’s Innovation to Flight group, this speech-to-text system was implemented to be easily implemented into different kinds of robots including but not limited to Urban Air Vehicles (UAV) and Unmanned Ground Vehicles (UGV). A text-to-speech program was developed for verification and validation of commands.
