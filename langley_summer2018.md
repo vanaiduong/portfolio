@@ -1,4 +1,4 @@
-** NASA Langley Research Center ** - Urban Air Mobility Pilot-Training Simulator NASA Academy Research Associate (NASA Leadership Program)
+**NASA Langley Research Center** - Urban Air Mobility Pilot-Training Simulator NASA Academy Research Associate (NASA Leadership Program)
 
 **Dates:** 08/2018 – 12/2018
 
