@@ -1,4 +1,5 @@
-**NASA Glenn Research Center**
+**NASA Glenn Research Center** 
+
 Dates: 08/2018 - 12/2018
 
 - Acted as Lead Developer to produce a virtual reality (VR) Unity prototype of Urban Air Mobility (UAM) flight focused on addressing the challenges of air traffic communications and networking for congested flight paths, using multiple VR platforms such as Oculus Rift and Cave Automatic Virtual Environment (CAVE) system
